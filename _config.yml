@@ -1,0 +1,3 @@
+name: EF-NMR
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
